@@ -27,8 +27,8 @@
       <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2244898">
-              <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
+            <state vertical-scroll-proportion="0.30612245">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -63,8 +63,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1563" />
-    <option name="y" value="27" />
+    <option name="x" value="-1598" />
+    <option name="y" value="46" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -180,7 +180,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1563" y="27" width="1400" height="1000" extended-state="0" />
+    <frame x="-1598" y="46" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -225,8 +225,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2244898">
-          <caret line="11" column="132" selection-start-line="11" selection-start-column="132" selection-end-line="11" selection-end-column="132" />
+        <state vertical-scroll-proportion="0.30612245">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>

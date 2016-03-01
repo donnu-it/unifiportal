@@ -11,8 +11,8 @@ RUN apt-get update && apt-get install -y php5-cli libpng12-dev git libjpeg-dev l
 RUN \
         curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer --version=1.0.0-alpha11
 
-
-WORKDIR /var/www/html
+#VOLUME /var/www/html
+#WORKDIR /var/www/html
 COPY src/ /var/www/html
 
 RUN cd /var/www/html && \
