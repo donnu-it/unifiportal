@@ -8,13 +8,12 @@ RUN apt-get update && apt-get install -y php5-cli libpng12-dev git libjpeg-dev l
 #	&& docker-php-ext-configure gd --with-png-dir=/usr --with-jpeg-dir=/usr \
 #	&& docker-php-ext-install gd mbstring zip
 
-
 RUN \
-        curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+        curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer --version=1.0.0-alpha11
 
 
 WORKDIR /var/www/html
-COPY . /var/www/html
+COPY src/ /var/www/html
 
 RUN cd /var/www/html && \
 composer install
