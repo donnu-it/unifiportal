@@ -1,0 +1,26 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "pear",
+      "url": "http://pear.php.net"
+    }
+  ],
+  "require": {
+    "pear-pear.php.net/mail_mime" : "*",
+    "pear-pear.php.net/http_request2" : "*",
+    "pear-pear.php.net/mail_mimedecode" : "*",
+    "microsoft/windowsazure": "*",
+    "php": ">=5.3",
+    "simplesamlphp/simplesamlphp": "=1.14.0"
+  }
+}
