@@ -1,0 +1,9 @@
+{
+  "name": "wifiportal",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "bootstrap3-ie10-viewport-bug-workaround": "~1.0.0",
+    "html5shiv": "~3.7.3"
+  }
+}

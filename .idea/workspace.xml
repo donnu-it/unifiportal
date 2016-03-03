@@ -2,8 +2,1345 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc9d68b-d2df-4a04-b3ff-9f1e2c63efec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/380.GIF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/azure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/gsi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/resources/simplesamlphp-googleapps/googleapps-cert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/resources/simplesamlphp-googleapps/googleapps-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/resources/simplesamlphp-googleapps/googleapps-sso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/resources/simplesamlphp-googleapps/googleapps-ssoconfig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/resources/simplesamlphp-sp/screenshot-example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/resources/demoimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/resources/infocard_114x80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/resources/infocard_self_114x80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/www/resources/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/www/resources/yubikey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/papi/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/themefeidernd/www/ssplogo-fish-only-s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/contrib/google/php-openid-apps-discover-1.0.1.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/header-bkg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/bullet16_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/checkmark.48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/checkmark.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/checkmark48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/crystal_project/date.32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/crystal_project/kchart.32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-about.64x64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-about.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-authentication.48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-authentication.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-error.48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-error.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-warning.48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/gtk-dialog-warning.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/accept.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/ssplogo-fish-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/ssplogo-fish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_11x11_icon_resize_se.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_35x9_colorpicker_indicator.gif.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/222222_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/454545_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/888888_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/dadada_40x100_textures_02_glass_75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/e6e6e6_40x100_textures_02_glass_75.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/ffffff_40x100_textures_01_flat_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/ffffff_40x100_textures_02_glass_65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/images/gradient.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/controllers/controller_main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/core/controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/core/model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/core/route.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/core/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/models/model_main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/views/main_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/application/views/template_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/8bvcwhro/authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/8bvcwhro/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/8bvcwhro/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/brzmnlht/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/default/authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/default/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/guest/s/default/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/script/redirect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/addurnprefix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/facebook2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/feide-oid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/linkedin2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/myspace2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/name2claim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/name2oid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/name2urn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/oid-feide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/oid2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/oid2urn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/openid2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/removeurnprefix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/twitter2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/urn2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/urn2oid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/attributemap/windowslive2name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/build-release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/ldapattrschemaparser.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/memcacheSync.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/pack.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/pwgen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/bin/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/cert/web1.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/cert/web1.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/acl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/authmemcookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/authsources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/cas-ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/config-login-auto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/config-login-feide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/ldapmulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config-templates/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/acl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/authmemcookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/authsources.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/cas-ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/config-login-auto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/config-login-feide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/ldapmulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/config/translation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/admin.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/admin.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/attributes.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/attributes.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/disco.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/disco.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/errors.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/errors.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/login.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/login.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/logout.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/logout.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/status.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/dictionaries/status.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/pack.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-advancedfeatures.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-artifact-idp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-artifact-sp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-authproc.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-authsource.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-automated_metadata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-customauth.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-errorhandling.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-features.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-googleapps.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-hok-idp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-hok-sp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-idp-more.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-idp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-install-repo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-install.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-maintenance.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-metadata-endpoints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-metadata-extensions-attributes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-metadata-extensions-rpi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-metadata-extensions-ui.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-modules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-reference-idp-hosted.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-reference-idp-remote.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-reference-sp-hosted.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-reference-sp-remote.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-scoping.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-sp-api.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-sp-migration.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-sp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-subversion.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-theming.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-translation.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.6.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.7.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.8.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/docs/simplesamlphp-upgrade-notes-1.9.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/extra/auth_memcookie.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/BWC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/Default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/LDAP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/ProcessingChain.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/ProcessingFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/Simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/Source.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/State.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Auth/TimeLimitedToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/AuthMemCookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Bindings/Shib13/Artifact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Bindings/Shib13/HTTPPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/Assertion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/AuthSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/BadRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/BadUserInnput.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/InvalidCredential.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/MetadataNotFound.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/NoPassive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/NoState.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/NotFound.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/ProxyCountExceeded.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/UnserializableException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/UserAborted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Error/UserNotFound.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/IdP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/IdP/LogoutHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/IdP/LogoutIFrame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/IdP/LogoutTraditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerErrorLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Logger/LoggingHandlerSyslog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/MemcacheStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageHandlerDynamicXML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageHandlerFlatFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageHandlerSerialize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageHandlerXML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/MetaDataStorageSource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/SAMLBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/SAMLParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Metadata/Signer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/SessionHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/SessionHandlerCookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/SessionHandlerPHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/SessionHandlerStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Stats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Stats/Output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Store/Memcache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Store/SQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Utilities.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/Utils/Crypto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XHTML/EMail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XHTML/IdPDisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XHTML/Template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Errors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Shib13/AuthnRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Shib13/AuthnResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Signer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/SimpleSAML/XML/Validator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/_autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/lib/_autoload_modules.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/log/_placeholder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/adfs-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/adfs-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/saml20-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/saml20-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/saml20-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/shib13-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/shib13-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/shib13-sp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/shib13-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/wsfed-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata-templates/wsfed-sp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/adfs-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/adfs-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/saml20-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/saml20-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/saml20-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/shib13-idp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/shib13-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/shib13-sp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/shib13-sp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/wsfed-idp-remote.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/metadata/wsfed-sp-hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/config-template/config-login-infocard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/dictionaries/dict-InfoCard.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/dictionaries/dict-InfoCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/dictionaries/dict-InfoCard.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/docs/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/docs/usage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/Auth/Source/ICAuth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/InfoCard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Claims.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Xml_Assertion_Saml.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Xml_Security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Xml_Security_Transform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Xml_Security_Transform_EnvelopedSignature.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/RP/Zend_InfoCard_Xml_Security_Transform_XmlExcC14N.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/STS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/UserFunctions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/lib/Utils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/templates/temp-getcardform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/templates/temp-login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/STS_card_issuer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/crt/CA.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/crt/idp.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/crt/sts.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/getcardform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/login-infocard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/mex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/prueba.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/tokenservice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/InfoCard/www/x509.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/docs/adfs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/IdP/ADFS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/SAML2/XML/fed/Const.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/SAML2/XML/fed/Endpoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/SAML2/XML/fed/SecurityTokenServiceType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/SAML2/XML/fed/TokenTypesOffered.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/lib/XMLSecurityDSig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/www/idp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/adfs/www/idp/prp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/bin/get.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/config-templates/module_aggregator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/dictionaries/aggregator.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/dictionaries/aggregator.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/docs/aggregator.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/lib/ARP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/lib/Aggregator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/templates/list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/www/arp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/bin/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/config-templates/module_aggregator2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/docs/aggregator2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/lib/Aggregator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/lib/EntitySource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aggregator2/www/get.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aselect/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aselect/docs/aselect.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aselect/lib/Auth/Source/aselect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aselect/www/credentials.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/aselect/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/dictionaries/X509error.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/dictionaries/X509error.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/docs/authX509.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/lib/Auth/Source/X509userCert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authX509/templates/X509error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/dictionaries/yubikey.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/dictionaries/yubikey.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/lib/Auth/Process/OTP2YubiPrefix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/lib/Auth/Source/YubiKey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/libextinc/Yubico.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/templates/yubikeylogin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authYubiKey/www/yubikeylogin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authcrypt/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authcrypt/docs/authcrypt.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authcrypt/lib/Auth/Source/Hash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authcrypt/lib/Auth/Source/Htpasswd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/docs/authfacebook.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/extlibinc/base_facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/extlibinc/fb_ca_chain_bundle.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/lib/Auth/Source/Facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/lib/Facebook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authfacebook/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authlinkedin/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authlinkedin/docs/oauthlinkedin.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authlinkedin/lib/Auth/Source/LinkedIn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authlinkedin/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authmyspace/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authmyspace/docs/oauthmyspace.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authmyspace/lib/Auth/Source/MySpace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authmyspace/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/dictionaries/Authorize.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/dictionaries/Authorize.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/docs/authorize.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/lib/Auth/Process/Authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/templates/authorize_403.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authorize/www/authorize_403.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authtwitter/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authtwitter/docs/oauthtwitter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authtwitter/lib/Auth/Source/Twitter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authtwitter/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authwindowslive/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authwindowslive/docs/windowsliveid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authwindowslive/lib/Auth/Source/LiveID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/authwindowslive/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/autotest/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/autotest/docs/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/autotest/www/attributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/autotest/www/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/autotest/www/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cas/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cas/docs/cas.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cas/lib/Auth/Source/CAS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cas/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/config-templates/module_casserver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/cas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/serviceValidate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/tickets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/casserver/www/validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/config-templates/module_cdc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/lib/Auth/Process/CDC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/lib/Client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/lib/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/www/resume.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cdc/www/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/dictionaries/consent.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/dictionaries/consent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/dictionaries/consent.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/docs/consent.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/lib/Auth/Process/Consent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/lib/Consent/Store/Cookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/lib/Consent/Store/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/lib/Logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/lib/Store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/templates/consentform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/templates/logout_completed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/templates/noconsent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/www/getconsent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/www/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/www/logout_completed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/www/noconsent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consent/www/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/config-templates/module_consentAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/dictionaries/consentadmin.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/dictionaries/consentadmin.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/docs/ConsentDocs.txt.old" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/docs/consentAdmin.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/templates/consentadmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/templates/consentadminajax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/www/consentAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentAdmin/www/includes/consentSimpleAjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/config-templates/module_consentSimpleAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/dictionaries/consentsimpleadmin.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/dictionaries/consentsimpleadmin.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/hooks/hook_sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/templates/consentadmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/templates/consentstats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/www/consentAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/consentSimpleAdmin/www/consentStats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/frontpage.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/frontpage.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_cookie.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_cookie.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_metadata.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_metadata.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_state.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/no_state.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/short_sso_interval.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/dictionaries/short_sso_interval.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_attributeadd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_attributealter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_attributelimit.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_attributemap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_attributerealm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_generategroups.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_languageadaptor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_php.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_scopeattribute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_scopefromattribute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_statisticswithattribute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_targetedid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/docs/authproc_warnshortssointerval.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/hooks/hook_sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/ACL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeAdd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeAlter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeCopy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeLimit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeMap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/AttributeRealm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/ExtendIdPSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/GenerateGroups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/LanguageAdaptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/PHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/ScopeAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/ScopeFromAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/StatisticsWithAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/TargetedID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Process/WarnShortSSOInterval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/Source/AdminPassword.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/UserPassBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Auth/UserPassOrgBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/ModuleDefinition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/ModuleInstaller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Stats/Output/File.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Stats/Output/Log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/lib/Storage/SQLPermanentStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/authsource_list.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/frontpage_auth.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/frontpage_config.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/frontpage_federation.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/frontpage_welcome.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/loginuserpass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/logout-iframe-wrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/logout-iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/no_cookie.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/no_metadata.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/no_state.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/short_sso_interval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/templates/show_metadata.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/as_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/as_logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/authenticate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/bwc_resumeauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/cleardiscochoices.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/frontpage_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/frontpage_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/frontpage_federation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/frontpage_welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/logout-iframe-done.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/logout-iframe-post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/logout-iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/logout-iframe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/resumeauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/idp/resumelogout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/login-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/loginuserpass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/loginuserpassorg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/no_cookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/postredirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/short_sso_interval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/core/www/show_metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/config-templates/module_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/dictionaries/cron.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/dictionaries/cron.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/templates/croninfo-result.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/templates/croninfo-tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/www/cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/cron/www/croninfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/config-templates/module_discopower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/dictionaries/tabs.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/dictionaries/tabs.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/lib/PowerIdPDisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/templates/disco-tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/www/disco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/www/js/jquery.livesearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/www/js/quicksilver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/www/js/suggest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/discopower/www/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleattributeserver/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleattributeserver/www/attributeserver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/lib/Auth/Process/RedirectTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/lib/Auth/Source/External.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/lib/Auth/Source/Static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/lib/Auth/Source/UserPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/www/authpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/www/redirecttest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/exampleauth/www/resume.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/dictionaries/expwarning.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/dictionaries/expwarning.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/docs/expirycheck.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/lib/Auth/Process/ExpiryDate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/templates/about2expire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/templates/expired.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/www/about2expire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/expirycheck/www/expired.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/docs/ldap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/Auth/Process/AttributeAddFromLDAP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/Auth/Process/AttributeAddUsersGroups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/Auth/Process/BaseFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/Auth/Source/LDAP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/Auth/Source/LDAPMulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/ldap/lib/ConfigHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/config-templates/module_logpeek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/lib/File/reverseRead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/lib/Syslog/parseLine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/templates/logpeek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/logpeek/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/dictionaries/memcachestat.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/dictionaries/memcachestat.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/hooks/hook_sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/templates/memcachestat.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/memcacheMonitor/www/memcachestat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/config-template/module_metaedit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/lib/MetaEditor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/templates/formedit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/templates/metalist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/templates/saved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/templates/xmlimport.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/www/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/www/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metaedit/www/xmlimport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/bin/metarefresh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/config-templates/config-metarefresh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/lib/ARP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/lib/MetaLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/templates/fetch.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/metarefresh/www/fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/dictionaries/modinfo.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/dictionaries/modinfo.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/hooks/hook_moduleinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/templates/modlist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/modinfo/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/dictionaries/multiauth.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/dictionaries/multiauth.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/docs/multiauth.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/lib/Auth/Source/MultiAuth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/templates/selectsource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/multiauth/www/selectsource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/dictionaries/negotiate.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/dictionaries/negotiate.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/docs/negotiate.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/lib/Auth/Source/Negotiate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/templates/disable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/templates/enable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/www/backend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/www/disable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/www/enable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/negotiate/www/retry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/bin/demo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/config-template/module_oauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/lib/Consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/lib/OAuthServer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/lib/OAuthSignatureMethodRSASHA1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/lib/OAuthStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/lib/Registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/libextinc/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/libextinc/OAuth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/templates/authorized.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/templates/consent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/templates/registry.edit.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/templates/registry.list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/templates/registry.saved.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/accessToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/authorize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/getUserInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/registry.edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/requestToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/oauth/www/resources/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/dictionaries/dictopenid.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/dictionaries/dictopenid.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/lib/Auth/Source/OpenIDConsumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/lib/SessionStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/lib/StateStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/templates/consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/www/consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openid/www/linkback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/config-template/module_openidProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/dictionaries/openidProvider.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/dictionaries/openidProvider.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/docs/provider.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/lib/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/templates/trust.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/templates/user.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/www/resume.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/www/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/www/trust.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/www/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/openidProvider/www/xrds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/papi/docs/papi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/papi/lib/Auth/Source/PAPI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/portal/config-templates/module_portal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/portal/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/portal/hooks/hook_htmlinject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/portal/lib/Portal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/dictionaries/warning.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/dictionaries/warning.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/lib/Auth/Process/Warning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/templates/warning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/preprodwarning/www/showwarning.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/radius/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/radius/docs/radius.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/radius/lib/Auth/Source/Radius.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/riak/config-templates/module_riak.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/riak/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/riak/docs/simplesamlphp-riak.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/riak/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/riak/lib/Store/Store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/dictionaries/wrong_authncontextclassref.definition.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/dictionaries/wrong_authncontextclassref.translation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/docs/authproc_expectedauthncontextclassref.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/docs/keyrollover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/docs/nameid.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/docs/nameidattribute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/docs/sp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/hooks/hook_metadata_hosted.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/AttributeNameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/AuthnContextClassRef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/ExpectedAuthnContextClassRef.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/NameIDAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/PersistentNameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/PersistentNameID2TargetedID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/SQLPersistentNameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Process/TransientNameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Auth/Source/SP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/BaseNameIDGenerator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/IdP/SAML1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/IdP/SAML2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/IdP/SQLNameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/lib/SP/LogoutStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/templates/sp/wrong_authncontextclassref.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/disco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/idp/certs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/discoresp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/saml1-acs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/saml2-acs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/saml2-logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml/www/sp/wrong_authncontextclassref.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml2debug/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml2debug/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml2debug/templates/debug.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/saml2debug/www/debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/config-templates/config-sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/hooks/hook_moduleinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/hooks/hook_sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/templates/check-tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sanitycheck/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartattributes/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartattributes/docs/smartattributes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartattributes/lib/Auth/Process/SmartID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartattributes/lib/Auth/Process/SmartName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartnameattribute/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/smartnameattribute/lib/Auth/Process/SmartName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sqlauth/default-enable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sqlauth/docs/sql.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/sqlauth/lib/Auth/Source/SQL.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/bin/loganalyzer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/bin/logcleaner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/config-templates/module_statistics.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/docs/statistics.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/hooks/hook_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/hooks/hook_frontpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/hooks/hook_sanitycheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/AccessCheck.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Aggregator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/DateHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/DateHandlerMonth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Graph/GoogleCharts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/LogCleaner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/LogParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/RatioDataset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Ruleset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/StatDataset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Statistics/FieldPresentation/Base.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Statistics/FieldPresentation/Entity.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Statistics/Rulesets/BaseRule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/lib/Statistics/Rulesets/Ratio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/templates/statistics-tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/templates/statmeta-tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/www/showstats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/statistics/www/statmeta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/themefeidernd/default-disable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/themefeidernd/themes/feidernd/core/loginuserpass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/modules/themefeidernd/www/feidernd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/oasis-sstc-saml-schema-assertion-1.1.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/oasis-sstc-saml-schema-protocol-1.1.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-assertion-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-auth-telephony-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-ip-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-ippword-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-kerberos-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-mobileonefactor-reg-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-mobileonefactor-unreg-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-mobiletwofactor-reg-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-mobiletwofactor-unreg-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-nomad-telephony-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-personal-telephony-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-pgp-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-ppt-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-pword-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-session-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-smartcard-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-smartcardpki-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-softwarepki-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-spki-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-srp-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-sslcert-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-telephony-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-timesync-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-types-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-x509-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-authn-context-xmldsig-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-dce-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-ecp-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-metadata-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-protocol-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-x500-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/schemas/saml-schema-xacml-2.0.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/attributequery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/errorreport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/includes/footer-embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/includes/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/includes/header-embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/includes/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/login-ldapmulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/metadata-converter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/selectidp-dropdown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/selectidp-links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/templates/status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/include_paths.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/AX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Association.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/BigMath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/CryptUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/DatabaseConnection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/DiffieHellman.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Discover.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/DumbStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/FileStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/HMAC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/KVForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/MDB2Store.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/MemcachedStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/MySQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Nonce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/PAPE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Parse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/PostgreSQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/PredisStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/SQLStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/SQLiteStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/SReg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/ServerRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/TrustRoot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/OpenID/URINorm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/HTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/Manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/Misc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/ParanoidHTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/ParseHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/PlainHTTPFetcher.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/XML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/XRDS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/XRI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/XRIRes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Auth/Yadis/Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/CHANGES-2.1.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/README.Debian" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/README.git" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/AX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Association.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/AssociationResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/AuthRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/BigMath.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Consumer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/CryptUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/DiffieHellman.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Discover_OpenID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/HMAC.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/KVForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/MemStore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Negotiation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Nonce.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/OpenID_Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/PAPE.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Parse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/RPVerify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/SReg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/StoreTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/TestUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/TrustRoot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/URINorm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/Util.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/VerifyDisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/dhexch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/dhpriv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/hmac-sha1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/hmac-sha256.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/linkparse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/n2b64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/openid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid2_xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid2_xrds_no_local_id.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_1_and_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_1_and_2_xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_1_and_2_xrds_bad_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_and_yadis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_no_delegate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_openid_ssl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_0entries.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_2_bad_local_id.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_2entries_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_2entries_idp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_another_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_idp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_idp_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/test_discover_yadis_no_delegate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/trustroot.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/OpenID/data/urinorm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/DiscoverData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/Discover_Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/ParseHTML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/TestUtil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/XRDS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/XRI.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/Yadis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/accept.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/brian.multi.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/brian.multi_uri.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/brian.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/brian_priority.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/delegated-20060809-r1.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/delegated-20060809-r2.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/delegated-20060809.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/example-xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/no-xrd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/not-xrds.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/pip.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/prefixsometimes.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/ref.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/sometimesprefix.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/spoof1.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/spoof2.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/spoof3.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/subsegments.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/test1-discover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/test1-parsehtml.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/test1-xrd.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/Auth/Yadis/data/uri_priority.xrds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/Tests/TestDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/adminutil.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/brace_style.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/checkimport" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/checkimports" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/darcs-ignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/docblocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/docblocks.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/findallphp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/findglobals" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/findphp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/fixperms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/gettlds.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/library-name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/longlines.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/makedoc.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/mathlib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/nobadbraces" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/nobadcase" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/nolonglines" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/notabs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/open_tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/otb_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/package.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/package2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/packagexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/phpaliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/prepare-release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/runtests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/syntaxcheck" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/texttest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/tutorials/OpenID/OpenID.pkg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/webtest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/admin/xmlconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/contrib/signed_assertions/AP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/contrib/signed_assertions/SAML.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/contrib/upgrade-store-1.1-to-2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/consumer/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/consumer/finish_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/consumer/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/consumer/try_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/detect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/discover.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/actions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/idpXrds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/idpage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/trust.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/render/userXrds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/lib/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/openid-server.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/openid/php-openid/examples/server/setup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/AbstractLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/InvalidArgumentException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/LogLevel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/LoggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/LoggerTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/NullLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/psr/log/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/README-DEV.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/ArtifactResolve.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/ArtifactResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Assertion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/AttributeQuery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/AuthnRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Binding.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Compat/AbstractContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Compat/ContainerSingleton.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Compat/MockContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Compat/Ssp/Container.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Compat/Ssp/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Const.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/EncryptedAssertion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/HTTPArtifact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/HTTPPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/HTTPRedirect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/LogoutRequest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/LogoutResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/SOAP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/SOAPClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/SignedElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/SignedElementHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/StatusResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/SubjectQuery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/Utils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/Chunk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/ds/KeyInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/ds/KeyName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/ds/X509Certificate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/ds/X509Data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/AdditionalMetadataLocation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/AffiliationDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/AttributeAuthorityDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/AttributeConsumingService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/AuthnAuthorityDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/ContactPerson.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/EndpointType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/EntitiesDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/EntityDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/Extensions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/IDPSSODescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/IndexedEndpointType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/KeyDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/Organization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/PDPDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/RequestedAttribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/RoleDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/SPSSODescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/SSODescriptorType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/md/UnknownRoleDescriptor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdattr/EntityAttributes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdrpi/Common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdrpi/PublicationInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdrpi/RegistrationInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdui/DiscoHints.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdui/Keywords.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdui/Logo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/mdui/UIInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/saml/Attribute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/saml/AttributeValue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/saml/NameID.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/saml/SubjectConfirmation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/saml/SubjectConfirmationData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/samlp/Extensions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/src/SAML2/XML/shibmd/Scope.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/AssertionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/AttributeQueryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/AuthnRequestTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/CertificatesMock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/LogoutRequestTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/ResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/SignedElementHelperMock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/SignedElementHelperTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/StatusResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/UtilsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/AdditionalMetadataLocationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/AffiliationDescriptorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/EndpointTypeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/EntityDescriptorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/IndexedEndpointTypeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/RoleDescriptorMock.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/md/RoleDescriptorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/mdrpi/PublicationInfoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/saml/AttributeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/saml/NameIDTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/saml/SubjectConfirmationDataTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/SAML2/XML/saml/SubjectConfirmationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tests/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tools/phpcs/ruleset.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tools/phpmd/ruleset.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/saml2/tools/phpunit/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/basic-doc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/encrypteddata-node-order.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/generatesessionkey-basics.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/generatesessionkey-parity.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/getcipherdata.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/getsymmetrickeysize.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/mycert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/oaep_sha1-content-res.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/oaep_sha1-res.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/privkey.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/retrievalmethod-findkey.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/retrievalmethod-findkey.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-basic-test.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-basic-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-c14-comments.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-c14-comments.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-empty-uri.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-empty-uri.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/sign-sha256-rsa-sha256-test.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/thumbprint.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/withcomment-empty-uri.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/withcomment-empty-uri.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/withcomment-id-uri.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/withcomment-id-uri.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xml-sign-sha256-rsa-sha256.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xml-sign.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-decrypt-content.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-decrypt.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-encrypt-content.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-encrypt-noreplace.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-encrypt.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-verify-rsa-sha256.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/tests/xmlsec-verify.phpt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/vendor/simplesamlphp/xmlseclibs/xmlseclibs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/admin/metadata-converter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/admin/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-cas-ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-ldapmulti.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-radius.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-tlsclient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login-wayf-ldap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/auth/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/authmemcookie.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/errorreport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/attributequery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/hostnames.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/saml2-example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/shib13-example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/verysimple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/example-simple/wsfed-example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/default-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/crystal_project/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/experience/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/icons/silk/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/jquery-16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/jquery-ui-16.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/slo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/ssplogo-fish.icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/ssplogo-fish.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme/jquery-ui-themeroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/resources/uitheme16/ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/ArtifactResolutionService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/SSOService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/SingleLogoutService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/SingleLogoutServiceiFrame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/SingleLogoutServiceiFrameResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/idpInitSingleLogoutServiceiFrame.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/initSLO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/idp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/AssertionConsumerService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/SingleLogoutService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/idpdisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/initSLO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/initSSO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/saml2/sp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/idp/SSOService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/idp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/sp/AssertionConsumerService.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/sp/idpdisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/sp/initSSO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/shib13/sp/metadata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/wsfed/sp/idpdisco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/wsfed/sp/initSLO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/wsfed/sp/initSSO.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/simplesamlphp/www/wsfed/sp/prp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/less/lib/body.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/less/lib/footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/less/lib/global.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/less/lib/head.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/style/less/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/build/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/unifiportal.iml" afterPath="$PROJECT_DIR$/.idea/unifiportal.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.php" afterPath="$PROJECT_DIR$/src/index.php" />
     </list>
     <ignored path="unifiportal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,6 +1353,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
+    <pharPath>C:\Users\ivan.GSI\apps\unifiportal\src\composer.phar</pharPath>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -25,11 +1366,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4314721">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.09026549">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -50,8 +1391,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/.gitignore" />
+        <option value="$PROJECT_DIR$/src/index.php" />
+        <option value="$PROJECT_DIR$/src/composer.json" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -63,7 +1408,21 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Console_Getopt" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Archive_Tar" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Structures_Graph" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/HTTP_Request2" />
+      <path value="$PROJECT_DIR$/src/vendor/microsoft/windowsazure" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Mail_Mime" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Net_URL2" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/XML_Util" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/Mail_mimeDecode" />
+      <path value="$PROJECT_DIR$/src/vendor/pear-pear.php.net/PEAR" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -141,6 +1500,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unifiportal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unifiportal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -148,11 +1525,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivan.GSI\apps\unifiportal\src\app" />
+      <recent name="C:\Users\ivan.GSI\apps\unifiportal\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker Deployment.Docker Deployment">
+    <configuration default="false" name="Docker Deployment" type="docker-deploy" factoryName="Docker Deployment" temporary="true" server-name="Docker">
+      <deployment type="dockerfile" path="$PROJECT_DIR$/Dockerfile">
+        <settings>
+          <option name="JSONFilePath" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="startBrowserSettings">
+            <browser />
+          </option>
+        </settings>
+      </deployment>
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -184,6 +1582,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Docker Deployment.Docker Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -213,26 +1619,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.22547974" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.7745203" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -295,10 +1702,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/build/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4314721">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.028764805">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14382403">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39115044">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09026549">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding />
         </state>
       </provider>
