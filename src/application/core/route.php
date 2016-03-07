@@ -7,20 +7,23 @@ class Route
         // контроллер и действие по умолчанию
         $controller_name = 'Main';
         $action_name = 'index';
+        $portal_name = '';
 
-        $routes = explode('/', $_SERVER['REQUEST_URI']);
+        $requestUrl = $_SERVER['REQUEST_URI'];
+        $requestUrl = substr($requestUrl,0,strpos($requestUrl,'?'));
+        $routes = explode('/', $requestUrl);
 
         // получаем имя контроллера
         if ( !empty($routes[3]) )
         {
-            $controller_name = $routes[3];
+            $controller_name = 'Main';
+            $portal_name = $routes[3];
         }
-//
-//        // получаем имя экшена
-//        if ( !empty($routes[2]) )
-//        {
-//            $action_name = $routes[2];
-//        }
+
+        if($routes[1]== 'redirect')
+        {
+            $controller_name = 'redirect';
+        }
 
         // добавляем префиксы
         $model_name = 'Model_'.$controller_name;
@@ -45,10 +48,6 @@ class Route
         }
         else
         {
-            /*
-            правильно было бы кинуть здесь исключение,
-            но для упрощения сразу сделаем редирект на страницу 404
-            */
             Route::ErrorPage404();
         }
 
@@ -56,10 +55,21 @@ class Route
         $controller = new $controller_name;
         $action = $action_name;
 
+        if($portal_name!='')
+        {
+            try{
+                $controller->setPortalName($portal_name);
+            } catch(Exception $e){
+
+            }
+        }
+
+
         if(method_exists($controller, $action))
         {
             // вызываем действие контроллера
             $controller->$action();
+
         }
         else
         {

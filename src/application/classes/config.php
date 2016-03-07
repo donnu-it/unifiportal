@@ -7,7 +7,7 @@ Class Config
     {
         if(!self::$config)
         {
-            self::$config = include "$_SERVER[DOCUMENT_ROOT]/app/application/settings/config.php";
+            self::$config = include "$_SERVER[DOCUMENT_ROOT]/application/settings/config.php";
         }
         return self::$config;
     }

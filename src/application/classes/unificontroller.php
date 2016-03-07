@@ -2,17 +2,18 @@
 
 Class UnifiController
 {
-    private $id;
     private $config;
 
-    public function __construct($id)
+    public function __construct()
     {
-        $this->id = $id;
         $this->config = Config::get();
     }
 
-    public function sendAuthorization()
+    public function sendAuthorization($id, $portalName, $userParam = null)
     {
+        if($userParam == null){
+           $userParam = $this->config[$portalName]['clientParam'];
+        }
         // Start Curl for login
         $ch = curl_init();
         // We are posting data
@@ -26,8 +27,8 @@ Class UnifiController
         curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
         curl_setopt($ch, CURLOPT_SSLVERSION, 1);
         // Login to the UniFi controller
-        curl_setopt($ch, CURLOPT_URL, $this->config['unifi']['unifiServer']."/api/login");
-        $data = json_encode(array("username" => $this->config['unifi']['unifiUser'],"password" => $this->config['unifi']['unifiPass']));
+        curl_setopt($ch, CURLOPT_URL, $this->config[$portalName]['unifi']['unifiServer']."/api/login");
+        $data = json_encode(array("username" => $this->config[$portalName]['unifi']['unifiUser'],"password" => $this->config[$portalName]['unifi']['unifiPass']));
         curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
         curl_exec($ch);
@@ -35,20 +36,20 @@ Class UnifiController
         // Send user to authorize and the time allowed
         $data = json_encode(array(
             'cmd'=>'authorize-guest',
-            'mac'=>$this->id,
-            'minutes'=>$this->config['clientParam']['sessionTime'],
-            'up'=>$this->config['clientParam']['up'],
-            'down'=>$this->config['clientParam']['down']
+            'mac'=>$id,
+            'minutes'=>$userParam['sessionTime'],
+            'up'=>$userParam['up'],
+            'down'=>$userParam['down']
         ));
 
         // Make the API Call
-        curl_setopt($ch, CURLOPT_URL, $this->config['unifi']['unifiServer'].'/api/s/'.$this->config['unifi']['unifiPortal'].'/cmd/stamgr');
+        curl_setopt($ch, CURLOPT_URL, $this->config[$portalName]['unifi']['unifiServer'].'/api/s/'.$portalName.'/cmd/stamgr');
         curl_setopt($ch, CURLOPT_POSTFIELDS, 'json='.$data);
         curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
         curl_exec ($ch);
 
         // Logout of the connection
-        curl_setopt($ch, CURLOPT_URL, $this->config['unifi']['unifiServer'].'/logout');
+        curl_setopt($ch, CURLOPT_URL, $this->config[$portalName]['unifi']['unifiServer'].'/logout');
         curl_exec ($ch);
         curl_close ($ch);
     }
