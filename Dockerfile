@@ -1,6 +1,8 @@
 FROM php:5.6-apache
 MAINTAINER ivan@donnu.edu.ua
 
+COPY apache/apache2.conf /etc/apache2
+
 RUN a2enmod rewrite
 # install the PHP extensions we need
 RUN apt-get update && apt-get install -y php5-cli libpng12-dev git libjpeg-dev libpq-dev \
@@ -17,3 +19,4 @@ COPY src/ /var/www/html
 
 RUN cd /var/www/html && \
 composer install
+
