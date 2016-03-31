@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y php5-cli libpng12-dev git libjpeg-dev l
 RUN \
         curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer --version=1.0.0-alpha11
 
-#VOLUME /var/www/html
+
 #WORKDIR /var/www/html
 COPY src/ /var/www/html
 
@@ -26,4 +26,5 @@ RUN ln /var/www/html/settings/settings.php /var/www/html/application/settings/co
     && ln /var/www/html/settings/simplesamlphp/cert/web1.key /var/www/html/simplesamlphp/cert/web1.key \
     && ln /var/www/html/settings/simplesamlphp/cert/web1.pem /var/www/html/simplesamlphp/cert/web1.pem
 
+VOLUME /var/www/html/settings
 
