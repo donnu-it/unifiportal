@@ -2,31 +2,39 @@
 
 return array(
     'logData' => array(
-                'connectionString' => '',
-                'table' => ''
+                'connectionString' => 'azure_connection_string',
+                'table' => 'azure_connection_table_name'
     ),
-    'default' => array(
+    'portal_name1' => array(
                 'unifi' => array(
-                    'unifiServer'  => "https://domain:443",
-                    'unifiUser'    => "",
-                    'unifiPass'    => ""
+                    'unifiServer'  => "portal1_unifiServer_url",
+                    'unifiUser'    => "portal1_unifiUser_name",
+                    'unifiPass'    => "portal1_unifiPass"
                 ),
                 'clientParam' => array(
-                    'up'            => "1024",
-                    'down'          => "2548",
-                    'sessionTime'   => "600"
+                    'up'            => "portal1_speed_up",
+                    'down'          => "portal1_speed_down",
+                    'sessionTime'   => "portal1_sessionTime"
                 ),
-                'ulrRedirect' => 'http://365.donnu.edu.ua',
+                'ulrRedirect' => 'portal1_ulrRedirect',
 
                 'vipUsers' => array(
                     array(
-                        'mac'         => "",
-                        'userName'    => "",
-                        'up'          => "",
-                        'down'        => "",
-                        'sessionTime' => "",
-                        'mail'        => ""
-                    )
+                        'mac'         => "portal1_vipUser1_mac_id",
+                        'userName'    => "portal1_vipUser1_userName",
+                        'up'          => "portal1_vipUser1_speed_up",
+                        'down'        => "portal1_vipUser1_speed_down",
+                        'sessionTime' => "portal1_vipUser1_sessionTime_sec",
+                        'mail'        => "portal1_vipUser1_mail"
+                    ),
+                    array(
+                        'mac'         => "portal1_vipUser1_mac_id",
+                        'userName'    => "portal1_vipUser1_userName",
+                        'up'          => "portal1_vipUser1_speed_up",
+                        'down'        => "portal1_vipUser1_speed_down",
+                        'sessionTime' => "portal1_vipUser1_sessionTime_sec",
+                        'mail'        => "portal1_vipUser1_mail"
+                    ),
                 )
     )
 );

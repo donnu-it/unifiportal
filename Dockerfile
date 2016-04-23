@@ -26,10 +26,11 @@ composer install
 #    && ln /var/www/html/settings/simplesamlphp/cert/web1.key /var/www/html/simplesamlphp/cert/web1.key \
 #    && ln /var/www/html/settings/simplesamlphp/cert/web1.pem /var/www/html/simplesamlphp/cert/web1.pem
 
-VOLUME /var/www/html/settings
+VOLUME /var/www/html
 
 COPY apache/templates/ /templates
 COPY docker-entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
+
 CMD ["apache2-foreground"]
