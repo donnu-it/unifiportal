@@ -104,13 +104,13 @@ set_config 'saml_location_url' "$SAML_LOCATION_URL" "$file_settings"
 set_config 'X509Certificate_key' "$X509_KEY" "$file_settings"
 set_config 'X509Certificate_pem' "$X509_PEM" "$file_settings"
 
-echo '-----BEGIN RSA PRIVATE KEY----- ' >> settings/simplesamlphp/cert/web1.key
-echo "$KEY" >> settings/simplesamlphp/cert/web1.key
-echo ' -----END RSA PRIVATE KEY-----' >> settings/simplesamlphp/cert/web1.key
-
-echo '-----BEGIN CERTIFICATE----- ' >> settings/simplesamlphp/cert/web1.pem
-echo "$PEM" >> settings/simplesamlphp/cert/web1.pem
-echo ' -----END CERTIFICATE-----' >> settings/simplesamlphp/cert/web1.pem
+#echo '-----BEGIN RSA PRIVATE KEY----- ' >> settings/simplesamlphp/cert/web1.key
+#echo "$KEY" >> settings/simplesamlphp/cert/web1.key
+#echo ' -----END RSA PRIVATE KEY-----' >> settings/simplesamlphp/cert/web1.key
+#
+#echo '-----BEGIN CERTIFICATE----- ' >> settings/simplesamlphp/cert/web1.pem
+#echo "$PEM" >> settings/simplesamlphp/cert/web1.pem
+#echo ' -----END CERTIFICATE-----' >> settings/simplesamlphp/cert/web1.pem
 
 ############### SimpleSAML Config #################
 
