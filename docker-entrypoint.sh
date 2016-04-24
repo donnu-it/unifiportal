@@ -5,6 +5,7 @@ if [[ -d "settings" && "$(ls -A settings)" ]]; then
     echo >&2 "Settings was found in $(pwd)/settings"
         else
         echo >&2 "Settings not found in $(pwd)/settings - copying now..."
+        mkdir /var/www/html/settings
         cp -R /templates/* /var/www/html/settings
         chown -R www-data:www-data settings
 #        ln settings/settings.php application/settings/config.php
