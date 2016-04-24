@@ -37,8 +37,8 @@ $config = array(
      * The email address will be used as the recipient address for error reports, and
      * also as the technical contact in generated metadata.
      */
-    'technicalcontact_name' => 'Administrator',
-    'technicalcontact_email' => 'na@example.org',
+    'technicalcontact_name' => 'technicalcontact_name_param',
+    'technicalcontact_email' => 'technicalcontact_email_param',
     /*
      * The timezone of the server. This option should be set to the timezone you want
      * SimpleSAMLphp to report the time in. The default is to guess the timezone based
@@ -65,7 +65,7 @@ $config = array(
      * metadata listing and diagnostics pages.
      * You can also put a hash here; run "bin/pwgen.php" to generate one.
      */
-    'auth.adminpassword' => '123',
+    'auth.adminpassword' => 'auth.adminpassword_param',
     'admin.protectindexpage' => false,
     'admin.protectmetadata' => false,
     /*
@@ -153,7 +153,7 @@ $config = array(
      * Options: [syslog,file,errorlog]
      *
      */
-    'logging.level' => SimpleSAML\Logger::NOTICE,
+    'logging.level' => SimpleSAML_Logger::NOTICE,
     'logging.handler' => 'syslog',
     /*
      * Specify the format of the logs. Its use varies depending on the log handler used (for instance, you cannot
