@@ -2,6 +2,7 @@ FROM php:5.6-apache
 MAINTAINER ivan@donnu.edu.ua
 
 COPY apache/apache2.conf /etc/apache2
+COPY apache/php.ini /usr/local/etc/php
 
 RUN a2enmod rewrite
 # install the PHP extensions we need
