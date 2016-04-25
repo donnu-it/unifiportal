@@ -115,6 +115,7 @@ secretsalt=$(tr -c -d '0123456789abcdefghijklmnopqrstuvwxyz' </dev/urandom | dd 
 set_config 'technicalcontact_name_param' "$SAML_TECHNICAL_NAME" "$file_settings"
 set_config 'technicalcontact_email_param' "$SAML_TECHNICAL_EMAIL" "$file_settings"
 set_config 'defaultsecretsalt' "$secretsalt" "$file_settings"
+set_config 'baseurlpath_param' "$SAML_BASEURLPATH" "$file_settings"
 
 if [ "$SAML_ADMIN_PASSWORD" ]; then
     set_config 'auth.adminpassword_param' "$SAML_ADMIN_PASSWORD" "$file_settings"
