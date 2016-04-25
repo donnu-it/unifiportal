@@ -8,11 +8,6 @@ if [[ -d "settings" && "$(ls -A settings)" ]]; then
         mkdir /var/www/html/settings
         cp -R /templates/* /var/www/html/settings
         chown -R www-data:www-data settings
-#        ln settings/settings.php application/settings/config.php
-#        ln settings/simplesamlphp/config.php simplesamlphp/config/config.php
-#        ln settings/simplesamlphp/saml20-idp-remote.php simplesamlphp/metadata/saml20-idp-remote.php
-#        ln settings/simplesamlphp/cert/web1.key simplesamlphp/cert/web1.key
-#        ln settings/simplesamlphp/cert/web1.pem simplesamlphp/cert/web1.pem
         echo >&2 "Coping was finished."
 fi
 
