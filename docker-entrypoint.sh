@@ -116,6 +116,10 @@ set_config 'technicalcontact_name_param' "$SAML_TECHNICAL_NAME" "$file_settings"
 set_config 'technicalcontact_email_param' "$SAML_TECHNICAL_EMAIL" "$file_settings"
 set_config 'defaultsecretsalt' "$secretsalt" "$file_settings"
 set_config 'baseurlpath_param' "$SAML_BASEURLPATH" "$file_settings"
+set_config 'mysql_host' "$MYSQL_HOST" "$file_settings"
+set_config 'dbname_param' "$DATABASE_NAME" "$file_settings"
+set_config 'store_sql_username' "$DATABASE_USER" "$file_settings"
+set_config 'store_sql_password' "$DATABASE_PASSWORD" "$file_settings"
 
 if [ "$SAML_ADMIN_PASSWORD" ]; then
     set_config 'auth.adminpassword_param' "$SAML_ADMIN_PASSWORD" "$file_settings"
